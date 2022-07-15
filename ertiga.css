@@ -1,0 +1,55 @@
+.body1{
+  background-color: #F76E11;
+  width:100%;
+  height: 100%;
+  padding : 6%;
+  line-height: 2;
+  color : white;
+
+}
+
+#page1{
+  background-color: #D8CCA3;
+  padding:9%;
+  width:100%;
+  height: 600px;
+}
+
+#Home{
+  background-color: #ECB390;
+  padding-top: 15%;
+  width:100%;
+  height: 650px;
+}
+#page2{
+  background-color: #F24C4C;
+  width:100%;
+  height: 800px;
+  padding :5%;
+  text-align: center;
+  opacity:0.9;
+
+}
+
+#page3{
+  padding: 10%;
+  width:100px;
+  height: 500px;
+}
+
+.home_body{
+  padding:30px;
+  margin :0% 15%;
+  background-color: #ECE5C7;
+}
+.Ergpic{
+  padding: 0 16%;
+}
+/* The navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
